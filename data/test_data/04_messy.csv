@@ -1,0 +1,16 @@
+Date,Category,Amount,Description
+01-Nov,Food,450,Lunch
+02-Nov, food ,300,Dinner
+03-Nov,SHOPPING,2200,Clothes
+04-Nov,Travel,abc,Cab
+05-Nov,Travel,-600,Refund?
+06-Nov,Food,,Snacks
+not a date,Bills,900,Electricity
+,Bills,700,Internet
+07-Nov,,250,Unknown item
+08-Nov,Food,"1,250",Party
+09-Nov,Food,Rs 400,Lunch
+10-Nov,Food,450,Lunch
+10-Nov,Food,450,Lunch
+31-Nov,Food,100,Impossible date
+,,,
