@@ -1,0 +1,541 @@
+Date,Category,Amount,Description
+01-Jan-2026,Food,500,Dinner
+01-Jan-2026,Entertainment,200,Netflix
+01-Jan-2026,Shopping,14000,Laptop bag + accessories
+03-Jan-2026,Bills,2390,Internet
+04-Jan-2026,Food,460,Coffee
+04-Jan-2026,Food,320,Snacks
+07-Jan-2026,Food,240,Lunch
+10-Jan-2026,Travel,310,Fuel
+11-Jan-2026,Food,90,Lunch
+11-Jan-2026,Travel,200,Auto
+11-Jan-2026,Travel,560,Auto
+12-Jan-2026,Food,490,Snacks
+12-Jan-2026,Food,540,Groceries
+12-Jan-2026,Travel,600,Cab
+13-Jan-2026,Food,290,Groceries
+13-Jan-2026,Food,510,Snacks
+13-Jan-2026,Health,720,Pharmacy
+14-Jan-2026,Food,460,Snacks
+14-Jan-2026,Travel,530,Metro
+15-Jan-2026,Shopping,2760,Shoes
+15-Jan-2026,Entertainment,680,Netflix
+16-Jan-2026,Entertainment,930,Movie
+17-Jan-2026,Food,590,Snacks
+17-Jan-2026,Travel,440,Fuel
+17-Jan-2026,Shopping,2920,Shoes
+17-Jan-2026,Bills,1990,Mobile recharge
+18-Jan-2026,Travel,210,Metro
+18-Jan-2026,Travel,50,Auto
+19-Jan-2026,Food,240,Lunch
+20-Jan-2026,Travel,430,Fuel
+21-Jan-2026,Shopping,2140,Headphones
+21-Jan-2026,Travel,9500,Flight ticket
+22-Jan-2026,Food,540,Swiggy order
+22-Jan-2026,Bills,510,Mobile recharge
+22-Jan-2026,Bills,1090,Internet
+23-Jan-2026,Food,350,Lunch
+23-Jan-2026,Health,1080,Doctor visit
+23-Jan-2026,Food,3800,Team dinner
+24-Jan-2026,Food,500,Dinner
+26-Jan-2026,Food,220,Dinner
+26-Jan-2026,Shopping,3460,Gift
+26-Jan-2026,Entertainment,400,Netflix
+28-Jan-2026,Food,120,Groceries
+29-Jan-2026,Food,240,Dinner
+31-Jan-2026,Travel,470,Bus pass
+01-Feb-2026,Shopping,2490,Amazon order
+02-Feb-2026,Travel,310,Fuel
+02-Feb-2026,Entertainment,480,Gaming
+03-Feb-2026,Travel,580,Fuel
+03-Feb-2026,Entertainment,970,Gaming
+03-Feb-2026,Food,3800,Team dinner
+05-Feb-2026,Travel,340,Fuel
+05-Feb-2026,Bills,1890,Electricity
+05-Feb-2026,Entertainment,740,Netflix
+06-Feb-2026,Food,590,Swiggy order
+06-Feb-2026,Food,550,Coffee
+08-Feb-2026,Shopping,2990,Shoes
+09-Feb-2026,Food,360,Lunch
+09-Feb-2026,Food,290,Groceries
+09-Feb-2026,Shopping,2730,Headphones
+09-Feb-2026,Health,1170,Doctor visit
+11-Feb-2026,Travel,640,Fuel
+11-Feb-2026,Entertainment,420,Gaming
+11-Feb-2026,Health,960,Doctor visit
+12-Feb-2026,Travel,430,Fuel
+13-Feb-2026,Travel,70,Bus pass
+13-Feb-2026,Travel,660,Cab
+13-Feb-2026,Bills,1810,Electricity
+14-Feb-2026,Food,430,Coffee
+15-Feb-2026,Food,160,Coffee
+15-Feb-2026,Food,240,Dinner
+16-Feb-2026,Food,480,Dinner
+16-Feb-2026,Shopping,14000,Laptop bag + accessories
+17-Feb-2026,Food,370,Lunch
+18-Feb-2026,Food,230,Lunch
+18-Feb-2026,Travel,150,Metro
+20-Feb-2026,Food,280,Coffee
+20-Feb-2026,Food,540,Snacks
+22-Feb-2026,Food,410,Snacks
+22-Feb-2026,Bills,2030,Water bill
+23-Feb-2026,Food,260,Dinner
+23-Feb-2026,Travel,240,Metro
+24-Feb-2026,Shopping,3290,Gift
+24-Feb-2026,Bills,720,Water bill
+25-Feb-2026,Food,570,Lunch
+25-Feb-2026,Food,350,Dinner
+25-Feb-2026,Food,570,Snacks
+27-Feb-2026,Food,480,Groceries
+27-Feb-2026,Travel,9500,Flight ticket
+28-Feb-2026,Travel,580,Bus pass
+01-Mar-2026,Food,550,Snacks
+01-Mar-2026,Travel,580,Fuel
+02-Mar-2026,Food,300,Dinner
+02-Mar-2026,Food,560,Lunch
+03-Mar-2026,Food,450,Swiggy order
+03-Mar-2026,Travel,690,Auto
+04-Mar-2026,Food,570,Dinner
+04-Mar-2026,Travel,600,Auto
+05-Mar-2026,Food,230,Dinner
+06-Mar-2026,Food,460,Snacks
+08-Mar-2026,Travel,9500,Flight ticket
+09-Mar-2026,Shopping,2150,Shoes
+09-Mar-2026,Entertainment,910,Concert
+11-Mar-2026,Bills,370,Water bill
+13-Mar-2026,Food,530,Dinner
+14-Mar-2026,Travel,270,Bus pass
+14-Mar-2026,Shopping,14000,Laptop bag + accessories
+15-Mar-2026,Shopping,2730,Gift
+16-Mar-2026,Food,500,Lunch
+16-Mar-2026,Entertainment,420,Concert
+18-Mar-2026,Travel,590,Auto
+18-Mar-2026,Health,120,Gym
+19-Mar-2026,Food,210,Coffee
+19-Mar-2026,Food,90,Groceries
+19-Mar-2026,Food,510,Coffee
+21-Mar-2026,Food,120,Swiggy order
+21-Mar-2026,Travel,630,Metro
+23-Mar-2026,Food,240,Groceries
+23-Mar-2026,Travel,430,Bus pass
+24-Mar-2026,Food,3800,Team dinner
+25-Mar-2026,Bills,1480,Water bill
+26-Mar-2026,Travel,200,Bus pass
+26-Mar-2026,Travel,100,Auto
+26-Mar-2026,Shopping,3250,Headphones
+26-Mar-2026,Entertainment,480,Concert
+27-Mar-2026,Food,90,Snacks
+27-Mar-2026,Travel,360,Cab
+27-Mar-2026,Bills,520,Mobile recharge
+28-Mar-2026,Entertainment,560,Netflix
+29-Mar-2026,Bills,1450,Internet
+31-Mar-2026,Food,230,Dinner
+31-Mar-2026,Food,550,Swiggy order
+31-Mar-2026,Food,270,Lunch
+31-Mar-2026,Shopping,1880,Gift
+31-Mar-2026,Health,580,Pharmacy
+02-Apr-2026,Travel,420,Metro
+02-Apr-2026,Shopping,1790,Headphones
+03-Apr-2026,Bills,930,Electricity
+03-Apr-2026,Food,3800,Team dinner
+04-Apr-2026,Food,540,Dinner
+04-Apr-2026,Shopping,830,Headphones
+05-Apr-2026,Travel,400,Cab
+05-Apr-2026,Bills,2370,Mobile recharge
+06-Apr-2026,Food,200,Dinner
+06-Apr-2026,Shopping,14000,Laptop bag + accessories
+08-Apr-2026,Travel,510,Metro
+10-Apr-2026,Food,220,Coffee
+10-Apr-2026,Food,240,Dinner
+10-Apr-2026,Travel,60,Bus pass
+10-Apr-2026,Travel,650,Fuel
+10-Apr-2026,Entertainment,870,Movie
+11-Apr-2026,Food,150,Swiggy order
+12-Apr-2026,Food,350,Swiggy order
+15-Apr-2026,Travel,480,Metro
+15-Apr-2026,Entertainment,710,Concert
+16-Apr-2026,Food,430,Dinner
+16-Apr-2026,Food,430,Snacks
+16-Apr-2026,Shopping,870,Gift
+18-Apr-2026,Food,290,Groceries
+18-Apr-2026,Food,560,Swiggy order
+18-Apr-2026,Bills,2250,Water bill
+20-Apr-2026,Travel,410,Cab
+20-Apr-2026,Bills,1820,Internet
+20-Apr-2026,Health,350,Pharmacy
+21-Apr-2026,Travel,670,Cab
+21-Apr-2026,Shopping,770,Shoes
+21-Apr-2026,Health,640,Doctor visit
+22-Apr-2026,Food,450,Groceries
+22-Apr-2026,Travel,9500,Flight ticket
+23-Apr-2026,Food,380,Swiggy order
+23-Apr-2026,Food,390,Coffee
+23-Apr-2026,Food,230,Groceries
+23-Apr-2026,Food,370,Groceries
+24-Apr-2026,Food,380,Groceries
+24-Apr-2026,Food,450,Snacks
+25-Apr-2026,Entertainment,810,Gaming
+26-Apr-2026,Food,90,Lunch
+27-Apr-2026,Travel,290,Auto
+28-Apr-2026,Travel,60,Bus pass
+28-Apr-2026,Entertainment,900,Gaming
+02-May-2026,Food,220,Groceries
+02-May-2026,Bills,1460,Electricity
+03-May-2026,Food,180,Lunch
+03-May-2026,Food,110,Dinner
+03-May-2026,Travel,100,Fuel
+03-May-2026,Travel,650,Auto
+04-May-2026,Bills,2270,Water bill
+05-May-2026,Health,830,Doctor visit
+06-May-2026,Travel,600,Fuel
+07-May-2026,Health,780,Gym
+08-May-2026,Food,190,Snacks
+08-May-2026,Food,490,Dinner
+08-May-2026,Travel,70,Auto
+09-May-2026,Travel,80,Cab
+10-May-2026,Shopping,2550,Gift
+11-May-2026,Shopping,2600,Headphones
+11-May-2026,Bills,940,Mobile recharge
+13-May-2026,Travel,390,Bus pass
+14-May-2026,Food,360,Swiggy order
+14-May-2026,Food,150,Snacks
+14-May-2026,Shopping,2200,Amazon order
+14-May-2026,Entertainment,210,Netflix
+15-May-2026,Food,150,Coffee
+16-May-2026,Travel,610,Auto
+16-May-2026,Shopping,14000,Laptop bag + accessories
+17-May-2026,Entertainment,610,Gaming
+18-May-2026,Travel,680,Fuel
+19-May-2026,Food,500,Dinner
+19-May-2026,Travel,100,Metro
+20-May-2026,Food,380,Groceries
+21-May-2026,Entertainment,710,Movie
+22-May-2026,Food,220,Groceries
+22-May-2026,Shopping,1030,Shoes
+22-May-2026,Entertainment,840,Gaming
+23-May-2026,Food,260,Swiggy order
+23-May-2026,Food,270,Swiggy order
+23-May-2026,Food,3800,Team dinner
+24-May-2026,Food,440,Groceries
+24-May-2026,Travel,460,Bus pass
+26-May-2026,Food,580,Swiggy order
+26-May-2026,Food,270,Snacks
+28-May-2026,Food,370,Lunch
+28-May-2026,Bills,1610,Electricity
+29-May-2026,Travel,9500,Flight ticket
+30-May-2026,Food,250,Dinner
+02-Jun-2026,Travel,450,Fuel
+02-Jun-2026,Travel,210,Bus pass
+03-Jun-2026,Bills,1500,Mobile recharge
+04-Jun-2026,Food,90,Swiggy order
+04-Jun-2026,Food,490,Dinner
+04-Jun-2026,Travel,9500,Flight ticket
+05-Jun-2026,Food,320,Dinner
+08-Jun-2026,Food,370,Snacks
+09-Jun-2026,Food,570,Coffee
+09-Jun-2026,Food,80,Groceries
+11-Jun-2026,Food,580,Snacks
+11-Jun-2026,Travel,530,Fuel
+11-Jun-2026,Bills,1890,Water bill
+11-Jun-2026,Entertainment,950,Gaming
+13-Jun-2026,Travel,340,Fuel
+14-Jun-2026,Food,130,Dinner
+14-Jun-2026,Food,380,Coffee
+15-Jun-2026,Travel,660,Auto
+16-Jun-2026,Food,530,Groceries
+17-Jun-2026,Food,530,Groceries
+17-Jun-2026,Shopping,2830,Clothes
+18-Jun-2026,Food,80,Snacks
+19-Jun-2026,Travel,670,Metro
+19-Jun-2026,Shopping,2190,Clothes
+20-Jun-2026,Food,590,Dinner
+20-Jun-2026,Entertainment,230,Netflix
+21-Jun-2026,Bills,500,Mobile recharge
+21-Jun-2026,Health,830,Pharmacy
+21-Jun-2026,Shopping,14000,Laptop bag + accessories
+22-Jun-2026,Travel,240,Fuel
+23-Jun-2026,Food,180,Groceries
+23-Jun-2026,Travel,350,Bus pass
+23-Jun-2026,Travel,530,Fuel
+24-Jun-2026,Food,160,Lunch
+24-Jun-2026,Food,270,Snacks
+24-Jun-2026,Shopping,1230,Headphones
+24-Jun-2026,Health,330,Doctor visit
+25-Jun-2026,Food,3800,Team dinner
+27-Jun-2026,Food,150,Coffee
+28-Jun-2026,Shopping,2750,Clothes
+28-Jun-2026,Bills,1970,Internet
+28-Jun-2026,Entertainment,1010,Gaming
+28-Jun-2026,Entertainment,840,Movie
+30-Jun-2026,Food,460,Snacks
+30-Jun-2026,Travel,460,Metro
+01-Jul-2026,Travel,550,Auto
+01-Jul-2026,Travel,110,Bus pass
+03-Jul-2026,Bills,1050,Mobile recharge
+06-Jul-2026,Food,520,Groceries
+06-Jul-2026,Food,190,Lunch
+07-Jul-2026,Bills,630,Mobile recharge
+08-Jul-2026,Food,370,Swiggy order
+08-Jul-2026,Travel,530,Bus pass
+09-Jul-2026,Food,370,Groceries
+09-Jul-2026,Shopping,1200,Clothes
+10-Jul-2026,Food,300,Groceries
+10-Jul-2026,Travel,590,Auto
+11-Jul-2026,Food,580,Lunch
+12-Jul-2026,Travel,420,Auto
+13-Jul-2026,Travel,660,Cab
+13-Jul-2026,Shopping,14000,Laptop bag + accessories
+14-Jul-2026,Food,170,Dinner
+15-Jul-2026,Food,300,Snacks
+15-Jul-2026,Travel,430,Metro
+15-Jul-2026,Health,290,Pharmacy
+17-Jul-2026,Food,340,Snacks
+17-Jul-2026,Entertainment,790,Concert
+18-Jul-2026,Food,180,Lunch
+19-Jul-2026,Bills,1230,Internet
+20-Jul-2026,Food,320,Snacks
+21-Jul-2026,Shopping,1470,Gift
+22-Jul-2026,Food,580,Dinner
+22-Jul-2026,Food,230,Coffee
+22-Jul-2026,Food,80,Coffee
+22-Jul-2026,Food,3800,Team dinner
+23-Jul-2026,Food,140,Coffee
+24-Jul-2026,Travel,680,Auto
+24-Jul-2026,Bills,1360,Internet
+24-Jul-2026,Entertainment,580,Movie
+24-Jul-2026,Travel,9500,Flight ticket
+25-Jul-2026,Travel,340,Bus pass
+25-Jul-2026,Health,670,Gym
+26-Jul-2026,Travel,500,Metro
+26-Jul-2026,Shopping,2750,Clothes
+27-Jul-2026,Entertainment,360,Concert
+29-Jul-2026,Food,90,Lunch
+29-Jul-2026,Food,260,Swiggy order
+29-Jul-2026,Shopping,700,Amazon order
+30-Jul-2026,Food,450,Dinner
+30-Jul-2026,Entertainment,760,Concert
+01-Aug-2026,Food,240,Snacks
+01-Aug-2026,Shopping,750,Amazon order
+01-Aug-2026,Food,3800,Team dinner
+02-Aug-2026,Travel,520,Metro
+03-Aug-2026,Shopping,1580,Gift
+03-Aug-2026,Bills,2420,Internet
+04-Aug-2026,Food,370,Groceries
+04-Aug-2026,Food,510,Dinner
+04-Aug-2026,Food,160,Lunch
+04-Aug-2026,Entertainment,990,Movie
+05-Aug-2026,Health,130,Doctor visit
+06-Aug-2026,Shopping,14000,Laptop bag + accessories
+08-Aug-2026,Food,420,Dinner
+08-Aug-2026,Bills,620,Internet
+09-Aug-2026,Food,450,Coffee
+09-Aug-2026,Entertainment,330,Netflix
+10-Aug-2026,Food,490,Coffee
+11-Aug-2026,Bills,2280,Internet
+11-Aug-2026,Travel,9500,Flight ticket
+12-Aug-2026,Food,130,Coffee
+13-Aug-2026,Travel,630,Auto
+13-Aug-2026,Shopping,1910,Shoes
+15-Aug-2026,Travel,610,Metro
+16-Aug-2026,Food,90,Snacks
+16-Aug-2026,Food,150,Lunch
+18-Aug-2026,Entertainment,470,Netflix
+19-Aug-2026,Bills,850,Internet
+20-Aug-2026,Travel,570,Auto
+21-Aug-2026,Food,120,Swiggy order
+21-Aug-2026,Travel,170,Fuel
+22-Aug-2026,Food,550,Swiggy order
+22-Aug-2026,Travel,580,Bus pass
+22-Aug-2026,Travel,520,Bus pass
+24-Aug-2026,Travel,240,Fuel
+26-Aug-2026,Entertainment,910,Movie
+26-Aug-2026,Health,700,Gym
+27-Aug-2026,Food,480,Groceries
+27-Aug-2026,Food,370,Swiggy order
+28-Aug-2026,Travel,510,Cab
+29-Aug-2026,Food,430,Groceries
+29-Aug-2026,Travel,500,Cab
+30-Aug-2026,Food,470,Dinner
+31-Aug-2026,Food,590,Snacks
+31-Aug-2026,Food,100,Groceries
+31-Aug-2026,Shopping,1120,Headphones
+01-Sep-2026,Food,110,Coffee
+03-Sep-2026,Travel,160,Cab
+03-Sep-2026,Shopping,2710,Clothes
+04-Sep-2026,Food,550,Lunch
+04-Sep-2026,Health,810,Gym
+05-Sep-2026,Food,250,Snacks
+05-Sep-2026,Entertainment,990,Gaming
+08-Sep-2026,Entertainment,280,Concert
+08-Sep-2026,Health,1190,Gym
+09-Sep-2026,Food,110,Dinner
+10-Sep-2026,Food,370,Swiggy order
+10-Sep-2026,Bills,1830,Mobile recharge
+11-Sep-2026,Travel,630,Fuel
+12-Sep-2026,Travel,240,Fuel
+12-Sep-2026,Bills,2000,Water bill
+12-Sep-2026,Entertainment,280,Netflix
+14-Sep-2026,Travel,170,Auto
+14-Sep-2026,Travel,450,Auto
+15-Sep-2026,Food,400,Dinner
+15-Sep-2026,Travel,340,Fuel
+16-Sep-2026,Food,360,Groceries
+17-Sep-2026,Food,450,Lunch
+17-Sep-2026,Travel,600,Cab
+18-Sep-2026,Shopping,800,Gift
+18-Sep-2026,Shopping,3370,Amazon order
+20-Sep-2026,Food,100,Swiggy order
+20-Sep-2026,Food,170,Lunch
+20-Sep-2026,Travel,420,Fuel
+20-Sep-2026,Shopping,14000,Laptop bag + accessories
+21-Sep-2026,Food,450,Snacks
+22-Sep-2026,Food,140,Coffee
+22-Sep-2026,Bills,610,Water bill
+23-Sep-2026,Food,360,Lunch
+23-Sep-2026,Food,280,Coffee
+24-Sep-2026,Food,340,Snacks
+24-Sep-2026,Travel,320,Fuel
+24-Sep-2026,Shopping,2400,Shoes
+25-Sep-2026,Travel,9500,Flight ticket
+26-Sep-2026,Food,500,Snacks
+26-Sep-2026,Travel,190,Bus pass
+27-Sep-2026,Food,3800,Team dinner
+28-Sep-2026,Food,330,Coffee
+28-Sep-2026,Bills,2140,Electricity
+28-Sep-2026,Entertainment,860,Concert
+29-Sep-2026,Food,130,Groceries
+01-Oct-2026,Food,190,Dinner
+01-Oct-2026,Entertainment,560,Netflix
+02-Oct-2026,Food,510,Lunch
+02-Oct-2026,Travel,50,Metro
+03-Oct-2026,Food,170,Swiggy order
+03-Oct-2026,Food,110,Dinner
+03-Oct-2026,Bills,1310,Electricity
+04-Oct-2026,Travel,490,Fuel
+04-Oct-2026,Travel,410,Bus pass
+04-Oct-2026,Shopping,14000,Laptop bag + accessories
+05-Oct-2026,Shopping,2440,Gift
+06-Oct-2026,Food,560,Snacks
+08-Oct-2026,Travel,550,Bus pass
+09-Oct-2026,Food,90,Dinner
+09-Oct-2026,Food,520,Groceries
+09-Oct-2026,Travel,610,Fuel
+09-Oct-2026,Travel,320,Bus pass
+10-Oct-2026,Food,540,Groceries
+10-Oct-2026,Travel,320,Metro
+10-Oct-2026,Entertainment,290,Gaming
+11-Oct-2026,Food,180,Groceries
+11-Oct-2026,Shopping,1110,Clothes
+13-Oct-2026,Food,340,Coffee
+14-Oct-2026,Bills,340,Water bill
+14-Oct-2026,Travel,9500,Flight ticket
+16-Oct-2026,Travel,610,Fuel
+16-Oct-2026,Travel,440,Cab
+16-Oct-2026,Shopping,2700,Shoes
+18-Oct-2026,Food,90,Snacks
+18-Oct-2026,Bills,2430,Mobile recharge
+19-Oct-2026,Food,500,Coffee
+19-Oct-2026,Entertainment,690,Gaming
+20-Oct-2026,Food,510,Swiggy order
+21-Oct-2026,Food,90,Lunch
+23-Oct-2026,Shopping,1670,Gift
+23-Oct-2026,Entertainment,960,Gaming
+24-Oct-2026,Food,410,Dinner
+25-Oct-2026,Food,440,Snacks
+25-Oct-2026,Travel,370,Auto
+26-Oct-2026,Health,1270,Gym
+28-Oct-2026,Food,3800,Team dinner
+30-Oct-2026,Food,500,Swiggy order
+30-Oct-2026,Food,290,Groceries
+30-Oct-2026,Bills,490,Mobile recharge
+30-Oct-2026,Health,1020,Pharmacy
+02-Nov-2026,Travel,520,Auto
+02-Nov-2026,Bills,930,Water bill
+03-Nov-2026,Food,190,Swiggy order
+03-Nov-2026,Travel,160,Bus pass
+03-Nov-2026,Entertainment,570,Movie
+03-Nov-2026,Travel,9500,Flight ticket
+04-Nov-2026,Food,170,Groceries
+04-Nov-2026,Shopping,2250,Clothes
+05-Nov-2026,Food,560,Swiggy order
+05-Nov-2026,Shopping,810,Headphones
+07-Nov-2026,Food,190,Snacks
+08-Nov-2026,Food,350,Snacks
+09-Nov-2026,Health,480,Doctor visit
+11-Nov-2026,Food,220,Groceries
+11-Nov-2026,Shopping,2930,Gift
+12-Nov-2026,Food,540,Swiggy order
+12-Nov-2026,Bills,1250,Mobile recharge
+13-Nov-2026,Food,410,Lunch
+13-Nov-2026,Food,270,Swiggy order
+13-Nov-2026,Entertainment,670,Concert
+15-Nov-2026,Travel,130,Fuel
+15-Nov-2026,Travel,430,Auto
+15-Nov-2026,Travel,620,Cab
+15-Nov-2026,Travel,100,Fuel
+15-Nov-2026,Bills,1640,Internet
+16-Nov-2026,Food,370,Snacks
+17-Nov-2026,Food,480,Lunch
+17-Nov-2026,Food,400,Dinner
+17-Nov-2026,Travel,140,Auto
+17-Nov-2026,Bills,1950,Internet
+18-Nov-2026,Health,1080,Doctor visit
+19-Nov-2026,Travel,120,Auto
+19-Nov-2026,Food,3800,Team dinner
+20-Nov-2026,Travel,690,Fuel
+21-Nov-2026,Food,470,Groceries
+22-Nov-2026,Food,440,Swiggy order
+22-Nov-2026,Entertainment,910,Movie
+22-Nov-2026,Shopping,14000,Laptop bag + accessories
+25-Nov-2026,Food,180,Lunch
+25-Nov-2026,Food,450,Coffee
+26-Nov-2026,Entertainment,950,Concert
+27-Nov-2026,Food,170,Dinner
+28-Nov-2026,Travel,450,Metro
+29-Nov-2026,Food,570,Groceries
+30-Nov-2026,Shopping,3420,Shoes
+02-Dec-2026,Travel,570,Auto
+02-Dec-2026,Bills,1940,Water bill
+03-Dec-2026,Food,3800,Team dinner
+05-Dec-2026,Food,300,Groceries
+05-Dec-2026,Food,120,Groceries
+06-Dec-2026,Travel,260,Fuel
+07-Dec-2026,Food,220,Dinner
+08-Dec-2026,Travel,350,Auto
+09-Dec-2026,Entertainment,720,Netflix
+10-Dec-2026,Food,430,Coffee
+10-Dec-2026,Bills,510,Internet
+12-Dec-2026,Food,270,Dinner
+12-Dec-2026,Travel,610,Fuel
+12-Dec-2026,Shopping,14000,Laptop bag + accessories
+13-Dec-2026,Travel,240,Metro
+13-Dec-2026,Travel,9500,Flight ticket
+14-Dec-2026,Health,230,Doctor visit
+17-Dec-2026,Food,310,Lunch
+17-Dec-2026,Food,570,Snacks
+17-Dec-2026,Shopping,3200,Headphones
+17-Dec-2026,Health,1050,Pharmacy
+20-Dec-2026,Food,530,Lunch
+20-Dec-2026,Travel,410,Fuel
+21-Dec-2026,Food,580,Groceries
+21-Dec-2026,Food,500,Coffee
+22-Dec-2026,Food,330,Dinner
+22-Dec-2026,Travel,350,Fuel
+23-Dec-2026,Food,550,Swiggy order
+23-Dec-2026,Bills,2460,Electricity
+25-Dec-2026,Shopping,1940,Headphones
+26-Dec-2026,Shopping,1200,Amazon order
+27-Dec-2026,Food,160,Swiggy order
+27-Dec-2026,Travel,90,Auto
+27-Dec-2026,Entertainment,700,Movie
+28-Dec-2026,Food,580,Lunch
+28-Dec-2026,Bills,1250,Electricity
+29-Dec-2026,Travel,210,Bus pass
+29-Dec-2026,Entertainment,590,Movie
+30-Dec-2026,Food,410,Lunch
+31-Dec-2026,Food,490,Swiggy order
+31-Dec-2026,Food,210,Groceries
+31-Dec-2026,Food,570,Coffee
+31-Dec-2026,Travel,650,Metro
+31-Dec-2026,Shopping,1320,Shoes
+31-Dec-2026,Entertainment,430,Gaming
